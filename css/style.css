@@ -63,6 +63,12 @@ body {
     box-shadow: 20px 20px 30px #26191d, -20px -20px 30px #33393a;
     color: #ffdf00;
     border-radius: 25px;
+    transition: ease all 5.9s;
+}
+
+#btn2:hover {
+    box-shadow: inset 20px 20px 30px #26191d, inset -20px -20px 30px #33393a;
+    cursor: pointer;
 }
 
 
